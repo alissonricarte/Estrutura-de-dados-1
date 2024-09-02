@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "contabancaria.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    }
+}
